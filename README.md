@@ -7,3 +7,5 @@ This repository contains the solution for Lab 1 in the Mathematical Analysis cou
 * Lab_MatAn_easy.ipynb - Jupyter Notebook file for Easy level
 * Lab_MatAn_normal.pdf - PDF file for Normal level
 * Lab_MatAn_normal.ipynb - Juptyer Notebook file for Normal level
+* Expert.ipynb - Jupyter Notebook file for Expert level
+* Lab_MatAn_expert.pdf - PDF file for Expert level
